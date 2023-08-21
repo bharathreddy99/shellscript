@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-Read NUMBER
+NUMBER=$1
 
 if [ $NUMBER -gt 10 ]
 then 
