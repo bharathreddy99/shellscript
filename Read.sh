@@ -8,4 +8,4 @@ echo " Hi,$USERNAME you are logged in"
 
 read -s ADMINNAME #it will wait for input to take from user
 
-echo "you successfully logged in as $ADMIN"
+echo "you successfully logged in as ADMIN"
